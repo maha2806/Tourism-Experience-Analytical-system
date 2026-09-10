@@ -6,7 +6,7 @@
 
 An end-to-end supervised learning project that predicts attraction ratings and visitor travel modes from 50,000+ tourism transactions, and recommends personalised attractions using item-based collaborative filtering and content-based TF-IDF similarity — deployed as an interactive Streamlit app.
 
-**[Live App →](https://tourism-experience-analytics-system.streamlit.app)**
+**[Live App →]()**
 
 </div>
 
